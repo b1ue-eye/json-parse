@@ -2,7 +2,7 @@
 
 A sleek and powerful Chrome extension to format, beautify, and convert JSON strings and JavaScript objects instantly. Built with Vite, React, and TypeScript.
 
-![Project Screenshot](placeholder.png) <!-- TODO: Add a screenshot of the extension -->
+![Project Screenshot](https://ibb.co/KpyL4h1K) <!-- TODO: Add a screenshot of the extension -->
 
 ## Features
 
@@ -24,7 +24,7 @@ A sleek and powerful Chrome extension to format, beautify, and convert JSON stri
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/json-parse.git
+    git clone https://github.com/b1ue-eye/json-parse.git
     cd json-parse
     ```
 
