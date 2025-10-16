@@ -2,7 +2,7 @@
 
 A sleek and powerful Chrome extension to format, beautify, and convert JSON strings and JavaScript objects instantly. Built with Vite, React, and TypeScript.
 
-![Project Screenshot](https://i.ibb.co/S4vdYyLf/Screenshot-2025-10-16-at-12-50-49-PM.png)<!-- TODO: Add a screenshot of the extension -->
+![Logo](https://i.ibb.co/S4vdYyLf/Screenshot-2025-10-16-at-12-50-49-PM.png)<!-- TODO: Add a screenshot of the extension -->
 
 ## Features
 
